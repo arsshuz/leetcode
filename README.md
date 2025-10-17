@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arsshuz/leetcode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/arsshuz/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -29,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/arsshuz/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arsshuz/leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arsshuz/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
