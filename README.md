@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/arsshuz/leetcode/tree/master/0058-length-of-last-word) |
+| [1205-defanging-an-ip-address](https://github.com/arsshuz/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arsshuz/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/arsshuz/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/arsshuz/leetcode/tree/master/3194-find-words-containing-character) |
