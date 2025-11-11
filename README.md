@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/arsshuz/leetcode/tree/master/0136-single-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/arsshuz/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/arsshuz/leetcode/tree/master/2058-concatenation-of-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/arsshuz/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -45,4 +46,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arsshuz/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/arsshuz/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
