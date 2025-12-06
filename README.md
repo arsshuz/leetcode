@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arsshuz/leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/arsshuz/leetcode/tree/master/0136-single-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/arsshuz/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2058-concatenation-of-array](https://github.com/arsshuz/leetcode/tree/master/2058-concatenation-of-array) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arsshuz/leetcode/tree/master/0001-two-sum) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/arsshuz/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
 |  |
