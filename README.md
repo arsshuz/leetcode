@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arsshuz/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/arsshuz/leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/arsshuz/leetcode/tree/master/0136-single-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/arsshuz/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/arsshuz/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0136-single-number](https://github.com/arsshuz/leetcode/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/arsshuz/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
